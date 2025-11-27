@@ -7,6 +7,7 @@ from datetime import datetime
 import shutil
 import storecounts
 
+
 USERNAME = os.environ.get("DSD_USERNAME")
 PASSWORD = os.environ.get("DSD_PASSWORD")
 GMAIL_ADDRESS = os.environ.get("GMAIL_ADDRESS")
